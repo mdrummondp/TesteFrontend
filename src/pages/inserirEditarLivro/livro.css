@@ -1,0 +1,33 @@
+.page-upper-card{
+    margin: 2% auto;
+    width: 90%;
+    height: 70px;
+    background-color: #5C666F;
+    border: 2px #24282b;
+    border-radius: 10px;
+}
+.div-filter-card{
+    margin: 2% auto;
+    width: 90%;
+    height: 40px;
+    background-color: #5C666F;
+    border: 2px #24282b;
+    border-radius: 10px;
+}
+.button-upper-card{
+    display: inline-block;
+    width: 10%;
+    padding-top: 6px;
+    height: 30px;
+    background-color: #7d8d9b;
+    color: white;
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+
+.input-text-upper-card{
+    display: inline-block;
+    margin-left: 70%;
+}
